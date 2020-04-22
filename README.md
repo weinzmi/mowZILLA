@@ -1,12 +1,17 @@
 # mowZILLA
-this is a software and hardware project to "smart UP" a robomower without hardwired connections to the robomowers board, sensors or actuators 
+this is a software and hardware project to "smart UP" a robomower without using hardwired connections to the robomowers board, sensors or actuators. Just read information from LEDs and Sound / Bussers.
 
 ## Robomower hardware
 
 Yardforce 600 ECO
-this robomower has no bluetooth, wifi or any other connection to tell if it is 
-Workcycle, Mowing, charging, lifted/tilted, ERROR or low on battery
-In fact, all of this above mentioned states are indicated via LEDs at the cockpit and some of them followed by a dedicated sound/beep   pattern.
+this robomower has no bluetooth, wifi or any other connection to tell it's current state, e.g.:
+ - Mowing
+ - Charging
+ - Lifted/tilted
+ - ERROR
+ - Low  battery
+ 
+In fact, all of this above mentioned states are indicated via LEDs at the cockpit and some of them are followed by a dedicated sound/beep pattern.
 
 <img src=https://github.com/weinzmi/mowZILLA/blob/master/images/Robomower_yardforce_600_eco.PNG width="300">
 
@@ -18,7 +23,7 @@ overview of the buttons and indicator LEDs
 
 <img src=https://github.com/weinzmi/mowZILLA/blob/master/images/Cockpit_schematic_zones.PNG width="300">
 
-it is devided into 5 zones / funtional areas
+The cockpit is devided into 5 zones / funtional areas
 
 <img src=https://github.com/weinzmi/mowZILLA/blob/master/images/Cockpit_schematic_zones.PNG width="300">
 
