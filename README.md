@@ -1,5 +1,9 @@
 # mowZILLA
-this is a software and hardware project to "smart UP" a robomower without using hardwired connections to the robomowers board, sensors or actuators. Just read information from LEDs and Sound / Bussers.
+## Summary:
+this is a software and hardware project to "smart UP" a robomower without using hardwired connections to the robomowers board, sensors or actuators. Just read information from LEDs and Sound / Bussers to log the condition of the robomower and notify the owner with notifications.
+
+### what it is not:
+a way to control or change parameters of the robomower
 
 ## Robomower hardware
 
