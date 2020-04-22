@@ -8,6 +8,11 @@ this robomower has no bluetooth, wifi or any other connection to tell if it is
 Workcycle, Mowing, charging, lifted/tilted, ERROR or low on battery
 In fact, all of this above mentioned states are indicated via LEDs at the cockpit and some of them followed by a dedicated sound/beep   pattern.
 
+<img src=https://github.com/weinzmi/mowZILLA/blob/master/images/Robomower_yardforce_600_eco.PNG width="300">
+
+here the link to the user manual:
+https://www.yardforce-tools.com/ProductFiles/fa4b8085-5971-479d-b8ae-45d6835b5a5c.pdf
+
 ### Cockpit
 overview of the buttons and indicator LEDs
 
