@@ -66,8 +66,19 @@ log all the events on a device
 ### Connections:
 connect to local wifi if available during the different cylces of the robomower
 
-### Reporting / Messaging:
+### Condition Monitoring Information:
+some basic calculations based on status changes, durations, tima of day, or other environmental data / information. These information should then be posted in notifications to the end user to take emidiate actions if necessarry or for the purpose of analysis and further optimization.
+
+### Notifications:
 send messages to a recepient 
  - via email
  - via whatsapp
  - other existing message services that can be looked up on any mobile device (android / apple)
+ 
+ Notifications should include:
+  - Date & Time
+  - Category
+   - Normal, Warning, ERROR
+  - Change of status; from OLD to NEW
+  - Actionable information
+   - suggestions of actions to be carried out, e.g.:
