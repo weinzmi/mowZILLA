@@ -7,7 +7,7 @@ LEDs
 
 # docked to charging station
 
-| docked to charging station  | flashing  | ON  | OFF  | 
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  | OK                        | no power supply; wire break  |  ?  |
@@ -16,7 +16,7 @@ LEDs
 
 # docked to charging station (LOCKED)
 
-| docked to charging station  | flashing  | ON  | OFF  | 
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  | OK                        | no power supply; wire break  |  ?  |
@@ -25,7 +25,7 @@ LEDs
 
 # mowing / in operation
 
-| mowing / in operation  | flashing  | ON  | OFF  |
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |         N.A               |         N.A      |  OK |
 | Signal  | ?                         | outside of range; no power supply; wire break | OK  |
@@ -35,7 +35,7 @@ LEDs
 
 # stopped operation / self
 
-| stopped operation  | flashing  | ON  | OFF  |
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
@@ -44,7 +44,7 @@ LEDs
 
 # Manual STOP
 
-| stopped operation  | flashing  | ON  | OFF  |
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
@@ -53,7 +53,7 @@ LEDs
 
 # Return to charging station
 
-| stopped operation  | flashing  | ON  | OFF  |
+| LED     | flashing                  | ON               | OFF  | 
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
