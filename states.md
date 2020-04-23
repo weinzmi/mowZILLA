@@ -14,6 +14,15 @@ LEDs
 | Batery  |                           |                  |     |
 | Charge  | In the process of charging| finidhed charging| no power supply|
 
+# docked to charging station (LOCKED)
+
+| docked to charging station  | flashing  | ON  | OFF  | 
+|---------|---------------------------|------------------|-----|
+| Tilt    |                           |                  |     |
+| Signal  | OK                        | no power supply; wire break  |  ?  |
+| Batery  |                           |                  |     |
+| Charge  | In the process of charging| finidhed charging| no power supply|
+
 # mowing / in operation
 
 | mowing / in operation  | flashing  | ON  | OFF  |
@@ -24,7 +33,7 @@ LEDs
 | Charge  | N.A.                      | N.A.             | OK  |
 
 
-# stopped operation
+# stopped operation / self
 
 | stopped operation  | flashing  | ON  | OFF  |
 |---------|---------------------------|------------------|-----|
@@ -32,4 +41,24 @@ LEDs
 | Signal  |                           |                  |     |
 | Batery  |                           |                  |     |
 | Charge  | N.A.                      | N.A.             | OK  |
+
+# Manual STOP
+
+| stopped operation  | flashing  | ON  | OFF  |
+|---------|---------------------------|------------------|-----|
+| Tilt    |                           |                  |     |
+| Signal  |                           |                  |     |
+| Batery  |                           |                  |     |
+| Charge  | N.A.                      | N.A.             | OK  |
+
+# Return to charging station
+
+| stopped operation  | flashing  | ON  | OFF  |
+|---------|---------------------------|------------------|-----|
+| Tilt    |                           |                  |     |
+| Signal  |                           |                  |     |
+| Batery  |                           |                  |     |
+| Charge  |                           |                  |     |
+
+
 
