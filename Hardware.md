@@ -47,4 +47,4 @@ see - https://docs.m5stack.com/#/en/core/m5go?id=specification
 | M5Stack Light Sensor 3 Pc Kit          |  2 Pc    |  9,17 €        | Banggood.com |
 | M5Stack Light 1-6 Expansion            |  1 Pc    |  7,18 €        | Banggood.com |
 
-TOTAL costs aprocimatly: 86,38 € w/o shipping
+TOTAL costs aproximatly: 86,38 € w/o shipping
