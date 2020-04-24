@@ -7,10 +7,18 @@ The current "goto" platform for this is the "M5STACK"
 
 https://m5stack.com/
 
-since this platform provides lots of extension modules necessarry for the required inputs, such as:
+since this platform provides lots of extension modules necessarry for the required inputs.
 
+## Available Modules
+
+ - Battery
+ - Expansion HUB
  - Light sensor
  - RGB Color sensor
- - Microphone (NOT FOUND YET)
  - GPS
  - Gyro / Accelerometer
+
+
+## missing / not available / not found modules
+
+ - Microphone (NOT FOUND YET)
