@@ -11,7 +11,7 @@ this file is setup to document the multiple states the robomower can have and ev
 The Iidication LEDs are going to be observed during the different states
 
 <img src=https://github.com/weinzmi/mowZILLA/blob/master/images/Cockpit_schematic_.zone1_indicatorsPNG.PNG width="240">
-[Tilt] - [Signal] - [Batery] - [Charge]
+[Tilt] - [Signal] - [Battery] - [Charge]
 
 
 ## docked to charging station
@@ -20,7 +20,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  | OK                        | no power supply; wire break  |  ?  |
-| Batery  |                           |                  |     |
+| Battery  |                           |                  |     |
 | Charge  | In the process of charging| finidhed charging| no power supply|
 
 ## docked to charging station (LOCKED)
@@ -29,7 +29,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  | OK                        | no power supply; wire break  |  ?  |
-| Batery  |                           |                  |     |
+| Battery  |                           |                  |     |
 | Charge  | In the process of charging| finidhed charging| no power supply|
 
 ## mowing / in operation
@@ -38,7 +38,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |         N.A               |         N.A      |  OK |
 | Signal  | ?                         | outside of range; no power supply; wire break | OK  |
-| Batery  | low battery               |    ??            | OK  |
+| Battery  | low battery               |    ??            | OK  |
 | Charge  | N.A.                      | N.A.             | OK  |
 
 
@@ -48,7 +48,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
-| Batery  |                           |                  |     |
+| Battery  |                           |                  |     |
 | Charge  | N.A.                      | N.A.             | OK  |
 
 ## Manual STOP
@@ -57,7 +57,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
-| Batery  |                           |                  |     |
+| Battery  |                           |                  |     |
 | Charge  | N.A.                      | N.A.             | OK  |
 
 ## Return to charging station
@@ -66,7 +66,7 @@ The Iidication LEDs are going to be observed during the different states
 |---------|---------------------------|------------------|-----|
 | Tilt    |                           |                  |     |
 | Signal  |                           |                  |     |
-| Batery  |                           |                  |     |
+| Battery  |                           |                  |     |
 | Charge  |                           |                  |     |
 
 
