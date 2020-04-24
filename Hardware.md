@@ -36,3 +36,15 @@ see - https://docs.m5stack.com/#/en/core/m5go?id=specification
 
 ### missing / not available / not found modules
 
+
+
+## Shopping List
+
+| Item                                   | Qty      | Price / Qty    | Shop         | 
+|----------------------------------------|----------|----------------|--------------|
+| M5Stack PSRAM 2.0 FIRE IoT Kit         |  1 Pc    |  48,51 €       | Banggood.com |
+| M5Stack GPS Module                     |  1 Pc    |  12,35 €       | Banggood.com |
+| M5Stack Light Sensor 3 Pc Kit          |  2 Pc    |  9,17 €        | Banggood.com |
+| M5Stack Light 1-6 Expansion            |  1 Pc    |  7,18 €        | Banggood.com |
+
+TOTAL costs aprocimatly: 86,38 € w/o shipping
