@@ -7,18 +7,20 @@ The current "goto" platform for this is the "M5STACK", since this platform provi
 
 https://m5stack.com/
 
-## M5GO
+## M5Stack FIRE IoT Development Kit
 
-<img src=https://docs.m5stack.com/assets/img/product_pics/core/m5go/m5go_02.webp width="240">
+<img src=https://cdn.shopify.com/s/files/1/0056/7689/2250/products/FIRE_1200x1200.jpg width="240">
 
-https://docs.m5stack.com/#/en/core/m5go
+https://m5stack.com/collections/m5-core/products/fire-iot-development-kit
 
-### Onboard I/O
+### Onboard I/O / Included in FIRE Kit
 
  - WiFi
   - BLE
  - Microphone
  - TF Card reader
+ - Battery
+ - Gyro / Accelerometer
  - ...
 
 see - https://docs.m5stack.com/#/en/core/m5go?id=specification
@@ -26,13 +28,11 @@ see - https://docs.m5stack.com/#/en/core/m5go?id=specification
 
 ### Available Modules
 
- - Battery
  - Expansion HUB
  - Light sensor
  - RGB Color sensor
  - GPS
- - Gyro / Accelerometer
-
+ 
 
 ### missing / not available / not found modules
 
